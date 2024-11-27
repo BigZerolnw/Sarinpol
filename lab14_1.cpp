@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Sarin Polsakda
+//Tp Airla
 template <typename T>
 void insertionSort(T d[],int N){
 	for( int i = 1 ; i < N ; i++ ){
